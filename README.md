@@ -1,4 +1,5 @@
-<h1>Hi, I'm Algene, a Cybersecurity, IAM Azure Associate </a>☺</h1>
+<h1>Hi, I am Algene, IAM-focused cybersecurity professional specializing in Microsoft Entra ID, Okta administration, identity lifecycle management, RBAC, authentication, and access governance. This portfolio documents hands-on IAM projects focused on enterprise identity operations and security best practices.
+
 
 - <b>Microsoft Azure Entra ID</b>
  - [Creating User's in Entra ID](https://github.com/x11b/user-accounts)
